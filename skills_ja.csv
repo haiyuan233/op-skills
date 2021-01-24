@@ -1060,6 +1060,29 @@ Tダガースピン,3115487272,Special,3 gear
 グラスバースト,1279678971,PA,Glass Burst 1-3 balls
 グラスバースト,1279678906,PA,Glass Burst 4-7 balls
 グラスバースト,1279679082,PA,Glass Burst 8 balls
+通常攻撃(バルカン),2063999436,Ranged,Vulcan first normal hit
+通常攻撃(バルカン),2063999435,Ranged,Vulcan second normal hit
+通常攻撃(バルカン),2063999434,Ranged,Vulcan third normal hit
+バルカンザン,95929731,PA,Vulcan Zan
+バルカンザン,2435231242,PA,Vulcan Zan PA succession
+バルカンキャク,2696678670,PA,Vulcan Kyaku first hit
+バルカンキャク,2696678735,PA,Vulcan Kyaku second hit
+バルカンキャク,57330511,PA,Vulcan Kyaku PA succession first hit
+バルカンキャク,57330446,PA,Vulcan Kyaku PA succession second hit
+バルカンキャク,57330886,PA,Vulcan Kyaku PA succession third hit
+バルカンキャク,57330823,PA,Vulcan Kyaku PA succession fourth hit
+バルカンキャク,57330756,PA,Vulcan Kyaku PA succession final hit
+バルカンケン,95929601,PA,Vulcan Ken
+バルカンケン,1151390282,PA,Vulcan Ken PA succession first hit
+バルカンケン,1151390219,PA,Vulcan Ken PA succession second hit
+バルカンケン,1151433823,PA,Vulcan Ken PA succession third hit
+バルカンケン,1151434142,PA,Vulcan Ken PA succession final hit
+バルカンダン,95944533,PA,Vulcan Dan
+バルカンダン,744644532,PA,Vulcan Dan PA succession
+バルカンゲキ,2900785656,PA,Vulcan Geki
+バルカンゲキ,2900785465,PA,Vulcan Geki PA succession (1-2 chained)
+バルカンゲキ,2900783709,PA,Vulcan Geki PA succession (3-4 chained)
+バルカンゲキ,2900784540,PA,Vulcan Geki PA succession (6 chained)
 通常攻撃(ヒーローソード),2444771520,Melee,Hero Sword first normal attack,Hr
 通常攻撃(ヒーローソード),2444771715,Melee,Hero Sword second normal attack,Hr
 通常攻撃(ヒーローソード),2832347180,Melee,Hero Sword third normal attack first hit,Hr
@@ -1233,6 +1256,7 @@ DBステアタ(エルダー),3141577094,Melee,Dark Blast Step Attack
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
 ブーストキック,85303031,Special,Tokyo speed-pad kick level 3 on cars
+ブーストキック,85301616,Special,Ep 6 PD story/raid boss dash kick
 Ridroid,3491866260,Special,ライドロイド射出
 Ridroid,2056025809,Special,ライドロイド normal 通常 wip
 Ridroid,2534881408,Special,ライドロイド hit forward stop
@@ -1639,6 +1663,7 @@ Luカウンター(フォメル),4109993569,Special,Luster Step Counter (Lu skill
 エンハンスシュート(フォメル),1592179056,Special,Luster Weapon Action charge 3 hits (Shoot Enhance) (Lu skill)
 エンハンスシュート(フォメル),3988763924,Special,Luster Weapon Action charge 3 finish (Shoot Enhance) (Lu skill)
 通常攻撃(Luフォメル),4099792656,Special,Luster Weapon Action into Step Attack
+ラスターカウンター(フォメル),2221684619,Special,Luster Counter with WA into Step Attack
 フレシェット(フォメル),2611294785,PA,Luster Flechette stationary
 フレシェット(フォメル),1961649619,PA,Luster Flechette stationary hold
 フレシェット(フォメル),1465951479,PA,Luster Flechette direction
@@ -1682,6 +1707,10 @@ Luカウンター(フォメル),4109993569,Special,Luster Step Counter (Lu skill
 ホローポイント(フォメル),1339015336,PA,Luster Hollow Point stationary hold final hits no gear
 ホローポイント(フォメル),3051384498,PA,Luster Hollow Point direction hold hits no gear
 ホローポイント(フォメル),3051384305,PA,Luster Hollow Point direction hold final hits no gear
+通常攻撃追撃(フォメル),2925304621,Special,Flechette (stationary) and Hollow Point Fomel PA follow-up with normal attacks
+通常攻撃追撃(フォメル),958081478,Special,Flechette (direction) Fomel PA follow-up with normal attacks
+通常攻撃追撃(フォメル),2212607950,Special,Brand Extension Fomel PA follow-up with normal attacks
+通常攻撃追撃(フォメル),129686491,Special,Slug Scatter Fomel PA follow-up with normal attacks
 クイックスラッシュ(フォメル),2580374948,Special,Luster Quick Slash stationary (Lu skill)
 クイックスラッシュ(フォメル),3498754478,Special,Luster Quick Slash forward (Lu skill)
 クイックスラッシュ(フォメル),2547839819,Special,Luster Quick Slash right side (Lu skill)
@@ -1709,6 +1738,7 @@ Luカウンター(ザンディ),3402465838,Special,Luster Step Counter (Lu skill
 エンハンスシュート(ザンディ),349455438,Special,Luster Weapon Action charge 2
 エンハンスシュート(ザンディ),349455117,Special,Luster Weapon Action charge 3
 通常攻撃(Luザンディ),4279228173,Special,Luster Weapon Action into Step Attack
+ラスターカウンター(ザンディ),2480579189,Special,Luster Counter with WA into Step Attack
 ザンディドッジアドバンス,2489726207,Special,Luster Zandi Dodge Advance follow-up attack
 フレシェット(ザンディ),996668125,PA,Luster Flechette stationary
 フレシェット(ザンディ),3892535876,PA,Luster Flechette stationary hold
@@ -1746,6 +1776,10 @@ Luカウンター(ザンディ),3402465838,Special,Luster Step Counter (Lu skill
 ホローポイント(ザンディ),2554391840,PA,Luster Hollow Point stationary hold final hits no gear
 ホローポイント(ザンディ),2618945109,PA,Luster Hollow Point direction hold hits no gear
 ホローポイント(ザンディ),2618945044,PA,Luster Hollow Point direction hold final hits no gear
+通常攻撃追撃(ザンディ),2720894468,Special,Flechette (stationary) and Hollow Point Zandi PA follow-up with normal attacks
+通常攻撃追撃(ザンディ),4092014190,Special,Flechette (direction) Zandi PA follow-up with normal attacks
+通常攻撃追撃(ザンディ),2300109425,Special,Brand Extension Zandi PA follow-up with normal attacks
+通常攻撃追撃(ザンディ),1796346705,Special,Slug Scatter Zandi PA follow-up with normal attacks
 スラッシュフォール(ザンディ),942756658,Special,Luster Slash Fall (Lu skill)
 スラッシュフォール(ザンディ),1165228084,Special,Luster Slash Fall hold (Lu skill)
 スラッシュフォール(ザンディ),1458283045,Special,Luster Slash Fall air sword hit (Lu skill)
@@ -1787,6 +1821,7 @@ Luカウンター(バーラン),1754815403,Special,Luster Step Counter (Lu skill
 エンハンスシュート(バーラン),908877635,Special,Luster Weapon Action charge 2
 エンハンスシュート(バーラン),908877698,Special,Luster Weapon Action charge 3
 通常攻撃(Luバーラン),1605885859,Special,Luster Weapon Action into Step Attack
+ラスターカウンター(バーラン),2124983417,Special,Luster Counter with WA into Step Attack
 フレシェット(バーラン),2256150497,PA,Luster Flechette stationary
 フレシェット(バーラン),2429721250,PA,Luster Flechette stationary hold
 フレシェット(バーラン),2064296513,PA,Luster Flechette direction
@@ -1823,6 +1858,10 @@ Luカウンター(バーラン),1754815403,Special,Luster Step Counter (Lu skill
 ホローポイント(バーラン),4080136312,PA,Luster Hollow Point stationary hold final hits no gear
 ホローポイント(バーラン),717533710,PA,Luster Hollow Point direction hold hits no gear
 ホローポイント(バーラン),717533775,PA,Luster Hollow Point direction hold final hits no gear
+通常攻撃追撃(バーラン),708905998,Special,Flechette (stationary) and Hollow Point Baran PA follow-up with normal attacks
+通常攻撃追撃(バーラン),2629368763,Special,Flechette (direction) Baran PA follow-up with normal attacks
+通常攻撃追撃(バーラン),3800063707,Special,Brand Extension Baran PA follow-up with normal attacks
+通常攻撃追撃(バーラン),4082235190,Special,Slug Scatter Baran PA follow-up with normal attacks
 スラッシュフォール(バーラン),2040738961,Special,Luster Slash Fall (Lu skill)
 スラッシュフォール(バーラン),2530530277,Special,Luster Slash Fall hold (Lu skill)
 スラッシュフォール(バーラン),3614105314,Special,Luster Slash Fall air sword hit (Lu skill)
@@ -1852,6 +1891,8 @@ Luカウンター,380547910,Special,Luster Step Counter (Lu skill)
 ステップスライド,1000184235,Special,Luster Step Slide backwards (Lu skill)
 イベイドシュート,240252326,Special,Luster Weapon Action
 エンハンスシュート,2558880803,Special,Luster Weapon Action hold
+ガンスラッシュ連射(Luster non-element),4134454790,Special,Luster Weapon Action into Step Attack
+ラスターカウンター(non-element),1400377060,Special,Luster Counter with WA into Step Attack
 フレシェット,596161793,PA,Luster Flechette stationary
 フレシェット,2092584073,PA,Luster Flechette stationary hold
 フレシェット,2975705021,PA,Luster Flechette direction
